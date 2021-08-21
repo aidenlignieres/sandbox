@@ -1,0 +1,2 @@
+Please fine the location of the Do-from-scratch Exercises
+in the align\CP1404_Practicals repository under Prac03 folder.
